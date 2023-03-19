@@ -1,4 +1,7 @@
-Currently i am working as a Support Engineer at Moschip Technologies Ltd.  from 2years 6months. on Remote Issues, Vulnerability Issues and Equipment Utilization Monitoring. i didn't get a chance to work on devops tools but have a knowledge on them
+I want to switch to DevOps engineering as I am believing that, there would be a better future in DevOps
+
+
+Currently, I am working as a Support Engineer at Moschip Technologies Ltd. for 2 years and 6 months. on Remote Issues, Vulnerability Issues, and Equipment Utilization Monitoring. I didn't get a chance to work on DevOps tools but know them
 
 
 DevOps: DevOps is a practice that allows a single team to manage the entire application development life cycle, that is, development, testing, deployment, and monitoring.
@@ -12,21 +15,21 @@ Skills Of A DevOps Engineer:
 Tools: 
 Version Control - GIT
 Continuous Integration - Jenkins
-Virtualization/ Containerization - Docker/Kubernetes
-Configuration Management - Puppet/Ansible
-Monitoring - Nagios
+Virtualization/ Containerization - Docker/Kubernetes/Terra form - Application Delivery Part
+Configuration Management - Ansible
+Monitoring - Prometheus & Grafana 
 
-Networking Skills: General networking skills Establishing connection between the containers/Port Forwarding/ Container Orchestration.
-Other Skills: People Skills, Process Skill, Customer Skill and Empathy & Cloud Awareness
+Networking Skills: General networking skills Establishing a connection between the containers/Port Forwarding/ Container Orchestration.
+Other Skills: People Skills, Process Skills, Customer Skills Empathy & Cloud Awareness
 
 
 DevOps Lifecycle:
-Plan: - First stage of DevOps life cycle, where you Plan, Track , Visualize and Summarize your Project before working/starting it. --->  Planning Tools ---> JIRA, Trello & Tricentis ---> 
+Plan: - First stage of the DevOps life cycle, where you Plan, Track, Visualize and Summarize your Project before working/starting it. --->  Planning Tools ---> JIRA, Trello & Tricentis ---> 
 Code: - Second stage of DevOps cycle, where the developers write their code  ----> Coding Tools ---> Git, eclipse
-Build: - Build is a pre release version and is identified by a build number, rather than by a release number. ---> Building Tools --- >Apache ANT, Jenkins, Maven & gradle
-Test: - Process of executing automated tests as part of the software delivery pipeline in order to obtain feedback on the business risks associated with a software release as rapidly as possible --->Testing Tools ---> Apache JMeter, Se, JUnit
+Build: - Build is a pre-release version and is identified by a build number, rather than by a release number. ---> Building Tools --- >Apache ANT, Jenkins, Maven & gradle
+Test: - Process of executing automated tests as part of the software delivery pipeline to obtain feedback on the business risks associated with a software release as rapidly as possible --->Testing Tools ---> Apache JMeter, Se, JUnit
 Release: - This phase helps to integrate code into a shared repository using which, you can detect and locate errors quickly and easily. ---> Releasing Tools ---> Travis CI, Git Lab, Bamboo
 Deploy: - Manage and maintain development and deployment of software systems and servers in any computational environment --- > Deploying Tools ---> AWS, Ansible & CHEF
 Operate: - This phase is to keep the system upgraded with the latest update. ---> Operating Tools --->  AWS, Ansible & CHEF
-Monitor: - It ensures that the application is performing as desired and the environment is stable. It quickly determines when a service is unavailable and understand the underlying causes ---> Monitoring Tools ---> Nagios, Splunk & Sensu
+Monitor: - It ensures that the application is performing as desired and the environment is stable. It quickly determines when a service is unavailable and understands the underlying causes ---> Monitoring Tools ---> Nagios, Splunk & Sensu
 
